@@ -1,5 +1,6 @@
-##1010
+#  1010
 A Python Version of the mobile-game 1010
+
 ```python
 
 from tkinter import *
